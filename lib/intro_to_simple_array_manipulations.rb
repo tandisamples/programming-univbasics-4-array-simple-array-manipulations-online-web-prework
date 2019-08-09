@@ -16,4 +16,4 @@ def
 end
 
 def
- @continents = ["Africa", "Asia", "Europe", "North America", "South America", ""
+ @continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania"
