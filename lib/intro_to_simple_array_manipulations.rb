@@ -25,3 +25,5 @@ def
  
  end
  
+ def
+   @dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
