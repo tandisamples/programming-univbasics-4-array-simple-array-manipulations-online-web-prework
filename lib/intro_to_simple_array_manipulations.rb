@@ -17,4 +17,4 @@ end
 
 def
  @continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania",  "Antarctica"]
- @deleted_string = 
+ @deleted_string = @continents
